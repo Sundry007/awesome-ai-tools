@@ -449,7 +449,7 @@ Artificial intelligence tools are software applications that utilize machine lea
 - [Haystack](https://haystack.deepset.ai/) - NLP framework for building search systems and RAG pipelines.
 - [Hugging Face](https://huggingface.co/) - ML model hub with models, datasets, and Inference Endpoints.
 - [OpenRouter](https://openrouter.ai/) - Unified API for 100+ LLMs with cost optimization and fallbacks.
-- [FerryAPI](https://www.ferryapi.io/?utm_source=github&utm_medium=pr&utm_campaign=7day_growth) - Low-cost OpenAI-compatible AI API gateway with prepaid billing, customer API keys, usage tracking, and provider account pools for scale-sensitive AI apps.
+- [FerryAPI](https://www.ferryapi.io/) - OpenAI-compatible AI API gateway for cost-conscious production workloads.
 - [Poe](https://poe.com/) - Platform for accessing multiple AI chatbots with custom bots.
 - [Together AI](https://together.ai/) - Inference and fine-tuning platform for open-source LLMs.
 - [Replicate](https://replicate.com/) - Run open-source models in the cloud with simple API.
